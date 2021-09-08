@@ -1,7 +1,7 @@
 # Sql
 ## Запрос ProductType:
 ```sql
-USE [knovoselov]
+USE [borifshoev]
 GO
 
 INSERT INTO [dbo].[ProductType]
@@ -14,7 +14,7 @@ SELECT DISTINCT[Тип продукции]
 
 ## Запрос MaterialType:
 ```sql
-USE [knovoselov]
+USE [borifshoev]
 GO
 
 INSERT INTO [dbo].[MaterialType]
@@ -28,7 +28,7 @@ SELECT DISTINCT[Типматериала]
 
 ## Запрос Material:
 ```sql
-USE [knovoselov]
+USE [borifshoev]
 GO
 
 INSERT INTO [dbo].[Material]
@@ -57,7 +57,7 @@ SELECT [Наименованиематериала]
 
 ## Запрос Product:
 ```sql
-USE [knovoselov]
+USE [borifshoev]
 GO
 
 INSERT INTO [dbo].[Product]
@@ -86,7 +86,7 @@ SELECT [Наименование продукции]
 
 ## Запрос ProductMaterial:
 ```sql
-USE [knovoselov]
+USE [borifshoev]
 GO
 
 INSERT INTO [dbo].[ProductMaterial]
