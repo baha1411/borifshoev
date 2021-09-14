@@ -104,3 +104,5 @@ SELECT P.ID
   Product P
 
   Where P.Title=PM.Продукция AND M.Title=PM.[Наименование материала]
+### UseCase
+![UseCase](.UseCase.png) 
